@@ -19,7 +19,7 @@ Página inicial com apresentação do sistema e seleção de verticais:
 
 Cada vertical possui tema visual próprio e dados contextualizados para o segmento.
 
-_(Adicionar GIF de demonstração da navegação entre perfis na landing page)_
+![demo-landingpage-p3](https://github.com/user-attachments/assets/d3b59bd6-b4f9-414a-b917-dba18ed80466)
 
 ### 2. Dashboard Executivo
 
@@ -34,7 +34,7 @@ Inclui visualizações gráficas:
 - Gráfico de tendência dos últimos 14 dias (agendados, confirmados, concluídos)
 - Distribuição de status atual dos agendamentos
 
-_(Adicionar GIF de demonstração dos gráficos e card de economia)_
+![demo-graficos-p3](https://github.com/user-attachments/assets/28e494c3-e77d-4423-abc3-eae94fadeafb)
 
 ### 3. Central de Agendamentos
 
@@ -50,7 +50,7 @@ O sistema valida:
 - Limite de um agendamento por paciente por dia
 - Disponibilidade de slots
 
-_(Adicionar GIF de demonstração do processo de agendamento com validações)_
+![demo-agendamento-p3](https://github.com/user-attachments/assets/d7e29ef7-34b4-42f2-b759-a41ffa5febda)
 
 ### 4. Agenda Semanal
 
@@ -70,7 +70,10 @@ Simulação realista de conversas automatizadas:
 - Indicadores visuais de mensagens automáticas vs. manuais
 - Sistema de priorização e ordenação por horário
 
-_(Adicionar GIF de demonstração do fluxo de mensagens e interação)_
+![demo-mensagens-p3](https://github.com/user-attachments/assets/013dc319-9030-4a1e-ac98-ac1ea003dd25)
+
+*demonstração sem conexão direta com Whatsapp*
+
 
 ### 6. Relatórios
 
@@ -322,6 +325,6 @@ MIT License - Veja arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Contato
 
-Ampliaro Studio - contato@ampliaro.com.br
+Ampliaro Studio - contato@ampliaro.com
 
 Repositório: [https://github.com/ampliaro/smart-wpp-calendar](https://github.com/ampliaro/smart-wpp-calendar)
