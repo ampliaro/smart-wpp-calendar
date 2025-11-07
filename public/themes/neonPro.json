@@ -1,0 +1,28 @@
+{
+  "name": "neonPro",
+  "label": "Neon Pro",
+  "emoji": "⚡",
+  "radius": "6px",
+  "font": "Inter",
+  "modes": {
+    "light": {
+      "bg": "#FDF4F8",
+      "surface": "#FFFFFF",
+      "text": "#1E293B",
+      "muted": "#64748B",
+      "border": "#F3E8EE",
+      "accent": "#DB2777",
+      "accentContrast": "#FFFFFF"
+    },
+    "dark": {
+      "bg": "#0A0309",
+      "surface": "#1A0E16",
+      "text": "#E2E8F0",
+      "muted": "#D8B4FE",
+      "border": "#2A1622",
+      "accent": "#EC4899",
+      "accentContrast": "#0A0309"
+    }
+  }
+}
+

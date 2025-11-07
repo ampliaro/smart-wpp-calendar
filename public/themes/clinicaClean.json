@@ -1,0 +1,28 @@
+{
+  "name": "clinicaClean",
+  "label": "Clínica Clean",
+  "emoji": "🦷",
+  "radius": "12px",
+  "font": "Inter",
+  "modes": {
+    "light": {
+      "bg": "#F7FAF9",
+      "surface": "#FFFFFF",
+      "text": "#1E293B",
+      "muted": "#64748B",
+      "border": "#E6E9EC",
+      "accent": "#2CB67D",
+      "accentContrast": "#FFFFFF"
+    },
+    "dark": {
+      "bg": "#0B0F0E",
+      "surface": "#121716",
+      "text": "#E2E8F0",
+      "muted": "#94A3B8",
+      "border": "#202426",
+      "accent": "#2CB67D",
+      "accentContrast": "#052018"
+    }
+  }
+}
+

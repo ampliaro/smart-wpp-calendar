@@ -1,0 +1,28 @@
+{
+  "name": "barbeariaClassic",
+  "label": "Barbearia Classic",
+  "emoji": "💈",
+  "radius": "8px",
+  "font": "Inter",
+  "modes": {
+    "light": {
+      "bg": "#FAF8F5",
+      "surface": "#FFFFFF",
+      "text": "#292524",
+      "muted": "#78716C",
+      "border": "#E7E5E4",
+      "accent": "#92400E",
+      "accentContrast": "#FFFFFF"
+    },
+    "dark": {
+      "bg": "#1A1410",
+      "surface": "#292421",
+      "text": "#F5F5F4",
+      "muted": "#A8A29E",
+      "border": "#3F3A36",
+      "accent": "#D97706",
+      "accentContrast": "#1A1410"
+    }
+  }
+}
+

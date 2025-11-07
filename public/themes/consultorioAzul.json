@@ -1,0 +1,28 @@
+{
+  "name": "consultorioAzul",
+  "label": "Consultório Azul",
+  "emoji": "🏥",
+  "radius": "10px",
+  "font": "Inter",
+  "modes": {
+    "light": {
+      "bg": "#F8FAFC",
+      "surface": "#FFFFFF",
+      "text": "#1E293B",
+      "muted": "#64748B",
+      "border": "#E2E8F0",
+      "accent": "#2563EB",
+      "accentContrast": "#FFFFFF"
+    },
+    "dark": {
+      "bg": "#0F172A",
+      "surface": "#1E293B",
+      "text": "#E2E8F0",
+      "muted": "#94A3B8",
+      "border": "#334155",
+      "accent": "#3B82F6",
+      "accentContrast": "#0F172A"
+    }
+  }
+}
+

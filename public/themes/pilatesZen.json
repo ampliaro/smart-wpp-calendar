@@ -1,0 +1,28 @@
+{
+  "name": "pilatesZen",
+  "label": "Pilates Zen",
+  "emoji": "🧘",
+  "radius": "16px",
+  "font": "Inter",
+  "modes": {
+    "light": {
+      "bg": "#FAF9FC",
+      "surface": "#FFFFFF",
+      "text": "#1E293B",
+      "muted": "#64748B",
+      "border": "#E9E7ED",
+      "accent": "#9333EA",
+      "accentContrast": "#FFFFFF"
+    },
+    "dark": {
+      "bg": "#1A0F24",
+      "surface": "#2A1F36",
+      "text": "#E2E8F0",
+      "muted": "#A78BCA",
+      "border": "#3A2F47",
+      "accent": "#C084FC",
+      "accentContrast": "#1A0F24"
+    }
+  }
+}
+
