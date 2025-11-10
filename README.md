@@ -325,6 +325,4 @@ MIT License - Veja arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Contato
 
-Ampliaro Studio - contato@ampliaro.com
-
-Repositório: [https://github.com/ampliaro/smart-wpp-calendar](https://github.com/ampliaro/smart-wpp-calendar)
+Ampliaro Studio - studio@ampliaro.com
